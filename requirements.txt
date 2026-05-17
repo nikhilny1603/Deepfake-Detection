@@ -1,0 +1,35 @@
+# --- Web framework ---
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+
+# --- Database ---
+motor==3.6.0
+pymongo==4.9.1
+
+# --- Auth ---
+passlib[bcrypt]==1.7.4
+python-jose[cryptography]==3.3.0
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# --- Deep Learning ---
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+transformers==4.45.2
+timm==1.0.9
+
+# --- Vision / Audio / Text utils ---
+opencv-python==4.10.0.84
+librosa==0.10.2.post1
+soundfile==0.12.1
+Pillow==10.4.0
+numpy==2.4.4
+scikit-lear==1.5.2
+matplotlib==3.9.2
+
+# --- Misc ---
+python-dotenv==1.0.1
+tqdm==4.66.5
+aiofiles==24.1.0

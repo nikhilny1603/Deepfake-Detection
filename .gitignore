@@ -1,0 +1,14 @@
+node_modules/
+.venv/
+venv/
+__pycache__/
+
+*.pth
+*.h5
+*.pkl
+*.ptc:\Users\nikhi\Downloads\deepfake-detection-system\deepfake-detection\render .yaml
+
+dataset/
+datasets/
+build/
+dist/
