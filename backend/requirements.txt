@@ -25,8 +25,8 @@ opencv-python==4.10.0.84
 librosa==0.10.2.post1
 soundfile==0.12.1
 Pillow==10.4.0
-numpy==2.4.4
-scikit-lear==1.5.2
+numpy==1.26.4
+scikit-learn==1.5.2
 matplotlib==3.9.2
 
 # --- Misc ---
